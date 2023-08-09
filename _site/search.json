@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-09T22:31:17+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Orkhan Sariyev",
+      "description": "Welcome! This is my personal website under development.\n",
+      "author": [],
+      "contents": "\r\n\r\nAbout me\r\nEducation\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-08-09T22:31:18+02:00"
+    }
+  ],
+  "collections": []
+}
