@@ -6,15 +6,18 @@ output_dir: "_site"
 navbar:
  logo:
   image: logo.jpg
+ search: false
+ title: "Home"
  right:
-    - text: "Home"
+    - text: "Dr. Orkhan Sariyev"
       href: index.html
-    - text: "About"
+    - text: "About me"
       href: about.html
     - text: "My Blog"
       href: blog.html
-    - icon: fa fa-linkedin
+    - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/orkhansariyev/
-    - icon: fa fa- twitter
+    - icon: fa-twitter fa-lg
       href: https://twitter.com/orkhansariyev
 output: distill::distill_article
+theme: "theme.css"

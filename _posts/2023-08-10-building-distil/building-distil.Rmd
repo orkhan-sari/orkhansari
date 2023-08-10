@@ -16,6 +16,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-As first ever blogpost, I am going to list here all the resources that I used when buildiign this website. So, if you are new to R `markdown` or `distil`, I hope this post will be helpful.  
+As my first blogpost, I am going to list here all the resources that I used when building this website. So, if you are new to `R markdown` or `distil`, I hope this post will be helpful.  
 
 
