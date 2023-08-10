@@ -1,0 +1,49 @@
+---
+title: "Research and Teaching"
+description: Teaching, research projects and articles
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Teaching and supervision
+
+### Modules UHOH
+
+  * [Quantitative Methods in Economics](https://ilias.uni-hohenheim.de/goto.php?target=crs_93188&client_id=UHOH)
+    * Research designs, sampling, matching methods
+  * [Poverty and Development Strategies](https://ilias.uni-hohenheim.de/goto.php?target=crs_54514&client_id=UHOH)
+    * Role of agriculture in development and agricultural development policy instruments
+  * [Monitoring and Evaluation of Rural Development Projects](https://ilias.uni-hohenheim.de/goto.php?target=crs_400376&client_id=UHOH)
+    * Impact evaluation, financial and economic appraisal of rural development projects
+  * [Rural Development Policies and Institutions](https://ilias.uni-hohenheim.de/goto.php?target=crs_58826&client_id=UHOH)
+    * Agricultural value chains and producer organizations as a form of collective action
+
+### MSc research
+
+* Are you interested in writing a master thesis with me? Please refer to [this file for topics](https://entwicklungspolitik.uni-hohenheim.de/fileadmin/einrichtungen/typo3-entwicklungspolitik/Aktuelle_Themen/M.Sc._Thesis_topics_2023.pdf) 
+
+
+## Publications in peer-reviewed journals
+
+* Sariyev, O. & Zeller, M. (2023). Crossbred poultry adoption and impact: Evidence from Ethiopia. Social Sciences and Humanities Open, 7(1). https://doi.org/10.1016/j.ssaho.2022.100394
+
+* Bergau, S., Loos, T. K., & Sariyev, O. (2021). On-and Off-Farm Diversification and Travel Time to Markets: Linkages to Food Security in Rural Ethiopia. The European Journal of Development Research, 1-18. https://doi.org/10.1057/s41287-021-00475-0
+
+* Sariyev, O., Loos, T. K., & Khor, L. Y. (2021). Intra-household decision-making, production diversity, and dietary quality: a panel data analysis of Ethiopian rural households. Food Security, 13(1), 181-197. https://doi.org/10.1007/s12571-020-01098-9
+
+* Khor, L. Y., Sariyev, O., & Loos, T. (2020). Gender differences in risk behavior and the link to household effects and individual wealth. Journal of Economic Psychology, 80, 102266. https://doi.org/10.1016/j.joep.2020.102266
+
+* Sariyev, O., Loos, T. K., & Zeller, M. (2020). Women’s participation in decision-making and its implications for human capital investment. European Review of Agricultural Economics, 47(5), 1803-1825. https://doi.org/10.1093/erae/jbaa008
+
+* Sariyev, O., Loos, T. K., Zeller, M., & Gurung, T. (2020). Women in household decision-making and implications for dietary quality in Bhutan.Agricultural and Food Economics, 8(1), 1-20. https://doi.org/10.1186/s40100-020-00158-0
+
+## Work in progress
+
+* Welfare impacts of conservation agriculture in Ethiopia
+
+* Gender Gap in Rice Productivity: Micro-evidence from Myanmar (paper lead by Nandar Aye Chan)

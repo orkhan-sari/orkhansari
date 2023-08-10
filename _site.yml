@@ -13,6 +13,8 @@ navbar:
       href: index.html
     - text: "About me"
       href: about.html
+    - text: "Research & Teaching"
+      href: research.html
     - text: "My Blog"
       href: blog.html
     - icon: fa-linkedin fa-lg
