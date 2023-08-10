@@ -22,6 +22,6 @@ I first heard of `distil` on Twitter. What do you do when you hear about anythin
 
 Next step for me was to check [example websites](https://pkgs.rstudio.com/distill/articles/examples.html). I am sure by googling a bit more, one can find many other example websites built with `distil` that provide code publicly. One of this sources is definitely [Open Source Football](https://github.com/nflverse/open-source-football). 
 
-I am still developing my website, thus this blog will be updated constantly. 
+I am still constructing my website, thus this blog will be updated constantly. 
 
 
