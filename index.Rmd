@@ -1,5 +1,5 @@
 ---
-title: "Orkhan Sariyev"
+title: "Dr. Orkhan Sariyev"
 description: |
   Welcome! This is my personal website under development.
 site: distill::distill_website
