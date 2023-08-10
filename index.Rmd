@@ -5,15 +5,22 @@ description: |
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+```{r setup, echo=FALSE, fig.align='right', fig.width=4, fig.height=4}
+knitr::include_graphics(path="C:/Disk D/orkhansari/pofile.png")
 
 
 ```
 
-![](pofile.png){widht=10}
-
 ## About me
 
+Welcome to my website! I am a passionate researcher with a proven track record in studying livelihoods in smallholder farm households of Africa and South Asia. With nearly five years of experience in teaching and advising master's level students at the University of Hohenheim, I have consistently contributed to their academic development while maintaining a strong commitment to agricultural and rural development-related socio-economic research.
+
+My primary interests revolve around agricultural and development economics, with a particular focus on food security, sustainable development, and women's empowerment. I am especially intrigued by rural development related policy and program evaluations, seeking to evaluate their effectiveness and identify areas for improvement. By examining these crucial aspects, I aim to drive positive change in the realms of agricultural and rural development.
+
+Currently, I am actively seeking collaborative opportunities with like-minded researchers and practitioners who share my passion for making a lasting impact on agricultural and rural development. Whether it's through joint research projects or knowledge exchange, I believe that our collective efforts can drive meaningful change in the field.
+
+I am excited to connect with professionals who share similar interests and aspirations. If you are involved in agricultural and rural development, women's empowerment, or policy and program evaluation, feel free to reach out! Let's explore how we can mutually benefit from our expertise. Feel free to reach out!
 
 ## Education
+
+I did my masters and doctoral degrees at the [University of Hohenheim](https://www.uni-hohenheim.de/en). To learn more about my education, research, publications, etc, I invite you to check out my [CV](https://bwsyncandshare.kit.edu/s/gfNgKGNipi84f39)  

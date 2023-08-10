@@ -15,7 +15,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      26px;
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -75,4 +75,6 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
-
+d-article p {
+text-align: justify;
+}

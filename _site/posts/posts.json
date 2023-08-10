@@ -11,9 +11,9 @@
     ],
     "date": "2023-08-10",
     "categories": [],
-    "contents": "\r\nAs my first blogpost, I am going to list here all the resources that I used when building this website. So, if you are new to R markdown or distil, I hope this post will be helpful.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nAs my first blogpost, I am going to list here all the resources that I used when building this website. So, if you are new to R markdown or distil, I hope this post will be helpful.\r\nI first heard of distil on Twitter. What do you do when you hear about anything new? You google or youtube? That is what I did too! I ended up in Lisa Lendway’s website which by the way she built wiht distil;and there is also a Youtube video. This was already good enough to set up my webpage over night!\r\n\r\n\r\n\r\n",
     "preview": "posts/2023-08-10-building-distil/preview_post1.jpg",
-    "last_modified": "2023-08-10T09:07:23+02:00",
+    "last_modified": "2023-08-10T10:53:14+02:00",
     "input_file": "building-distil.knit.md"
   }
 ]
