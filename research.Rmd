@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ## Teaching and supervision
 
-### Modules UHOH
+### Modules at UHOH
 
   * [Quantitative Methods in Economics](https://ilias.uni-hohenheim.de/goto.php?target=crs_93188&client_id=UHOH)
     * Research designs, sampling, matching methods
