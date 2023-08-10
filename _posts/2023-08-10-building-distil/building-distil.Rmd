@@ -1,0 +1,21 @@
+---
+title: "Building a {distil} website"
+description: |
+  How did I build this website? 
+author:
+  - name: Orkhan Sariyev
+date: 2023-08-10
+preview: preview_post1.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+As first ever blogpost, I am going to list here all the resources that I used when buildiign this website. So, if you are new to R `markdown` or `distil`, I hope this post will be helpful.  
+
+

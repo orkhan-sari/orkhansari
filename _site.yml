@@ -4,9 +4,17 @@ description: |
    
 output_dir: "_site"
 navbar:
+ logo:
+  image: logo.jpg
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "My Blog"
+      href: blog.html
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/orkhansariyev/
+    - icon: fa fa- twitter
+      href: https://twitter.com/orkhansariyev
 output: distill::distill_article
