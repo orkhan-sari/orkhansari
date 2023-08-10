@@ -21,5 +21,7 @@ navbar:
       href: https://www.linkedin.com/in/orkhansariyev/
     - icon: fa-twitter fa-lg
       href: https://twitter.com/orkhansariyev
+    - icon: fa-github fa-lg
+      href: https://github.com/orkhan-sari
 output: distill::distill_article
 theme: "theme.css"
