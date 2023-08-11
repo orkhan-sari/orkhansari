@@ -16,11 +16,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-As my first blogpost, I am going to list here all the resources that I used when building this website. So, if you are new to `R markdown` or `distil`, I hope this post will be helpful. I am also new to both, maybe now a bit more comfortable with markdown after some projects. Good think is that there are many people who have shared their experience and are willing to teach those like us. 
+In my inaugural blog post, I am excited to share a comprehensive list of resources that proved instrumental in the construction of this website. For those who may be newcomers to the realms of both `R markdown` and `distil`, I trust that this post will serve as a valuable aid. While I myself am relatively new to these tools, I have grown more at ease with markdown through various projects. A fortunate advantage is the wealth of individuals who have generously shared their insights and are enthusiastic about guiding fellow learners like us.
 
-I first heard of `distil` on Twitter. What do you do when you hear about anything new? You google or youtube? That is what I did too! I ended up in [Lisa Lendway's](https://lisalendway.netlify.app/) website which by the way she built with `distil`; and there is also a [Youtube video](https://www.youtube.com/watch?time_continue=186&v=Fm3bsYCilEU&embeds_referring_euri=https%3A%2F%2Flisalendway.netlify.app%2F&source_ve_path=MjM4NTE&feature=emb_title). This was already good enough to set up my webpage over night!
+My initiation into the world of distil occurred through a mention on Twitter. How do you usually respond to news of something new? Researching on Google or exploring YouTube videos perhaps? I embarked on a similar journey! Eventually, I stumbled upon [Lisa Lendway's](https://lisalendway.netlify.app/) website which, by the way, she constructed using `distil`. Furthermore, there is also a [Youtube video](https://www.youtube.com/watch?time_continue=186&v=Fm3bsYCilEU&embeds_referring_euri=https%3A%2F%2Flisalendway.netlify.app%2F&source_ve_path=MjM4NTE&feature=emb_title). This was already good enough to set up my webpage over night!
 
-Next step for me was to check [example websites](https://pkgs.rstudio.com/distill/articles/examples.html). I am sure by googling a bit more, one can find many other example websites built with `distil` that provide code publicly. One of this sources is definitely [Open Source Football](https://github.com/nflverse/open-source-football). 
+My subsequent step involved exploring various [example websites](https://pkgs.rstudio.com/distill/articles/examples.html) as provided by the `distil` documentation. . I am sure by googling a bit more, one can find many other example websites built with `distil` that provide code publicly. One of these sources is definitely [Open Source Football](https://github.com/nflverse/open-source-football). 
 
 I am still constructing my website, thus this blog will be updated constantly. 
 
