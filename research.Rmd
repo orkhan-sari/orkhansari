@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### MSc research
 
-* Are you interested in writing a master thesis with me? Please refer to [this file for topics](https://entwicklungspolitik.uni-hohenheim.de/fileadmin/einrichtungen/typo3-entwicklungspolitik/Aktuelle_Themen/M.Sc._Thesis_topics_2023.pdf) 
+* Are you interested in writing a master thesis with me? Please refer to [this file for topics](https://entwicklungspolitik.uni-hohenheim.de/fileadmin/einrichtungen/typo3-entwicklungspolitik/Aktuelle_Themen/M.Sc._Thesis_topics_2023.pdf).  
 
 
 ## Publications in peer-reviewed journals
@@ -44,6 +44,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Work in progress
 
-* Welfare impacts of conservation agriculture in Ethiopia
+* Impacts of conservation agriculture on food security and vulnerability in Ethiopia.
 
-* Gender Gap in Rice Productivity: Micro-evidence from Myanmar (paper lead by Nandar Aye Chan)
+* Gender Gap in Rice Productivity: Micro-evidence from Myanmar. (`paper lead by Nandar Aye Chan`)
