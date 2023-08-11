@@ -5,7 +5,7 @@ description: |
 output_dir: "_site"
 navbar:
  logo:
-  image: logo.jpg
+  image: education.png
  search: false
  title: "Home"
  right:

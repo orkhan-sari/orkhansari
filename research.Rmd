@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Modules at UHOH
 
   * [Quantitative Methods in Economics](https://ilias.uni-hohenheim.de/goto.php?target=crs_93188&client_id=UHOH)
-    * Research designs, sampling, matching methods
+    * Research designs, sampling, statistical analyses, matching methods - with applications in STATA
   * [Poverty and Development Strategies](https://ilias.uni-hohenheim.de/goto.php?target=crs_54514&client_id=UHOH)
     * Role of agriculture in development and agricultural development policy instruments
   * [Monitoring and Evaluation of Rural Development Projects](https://ilias.uni-hohenheim.de/goto.php?target=crs_400376&client_id=UHOH)
