@@ -44,6 +44,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Work in progress
 
-* Impacts of conservation agriculture on food security and vulnerability in Ethiopia.
+* Impacts of conservation agriculture on food security and vulnerability in Ethiopia. (`Lead author: Orkhan Sariyev`)
 
-* Gender Gap in Rice Productivity: Micro-evidence from Myanmar. (`paper lead by Nandar Aye Chan`)
+* Gender Gap in Rice Productivity: Micro-evidence from Myanmar. (`Lead author: Nandar Aye Chan`)
+
+* Assessment of crop and livestock insurance scheme in Bhutan. (`Lead author: Ngawang`)
+
+* Income diversification and agricultural technology adoption in Ethiopia. (`Lead author: Isaac Acheampong`)
