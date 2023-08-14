@@ -51,3 +51,4 @@ knitr::opts_chunk$set(echo = TRUE)
 * Assessment of crop and livestock insurance scheme in Bhutan. (`Lead author: Ngawang`)
 
 * Income diversification and agricultural technology adoption in Ethiopia. (`Lead author: Isaac Acheampong`)
+
