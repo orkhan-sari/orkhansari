@@ -15,7 +15,7 @@ navbar:
       href: about.html
     - text: "Research & Teaching"
       href: research.html
-    - text: "My Blog"
+    - text: "Blog"
       href: blog.html
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/orkhansariyev/

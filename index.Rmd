@@ -1,7 +1,7 @@
 ---
-title: "Dr. Orkhan Sariyev"
+title: "Welcome to my pesonal website."
 description: |
-  Welcome! This is my personal website under construction.
+  
 site: distill::distill_website
 ---
 
