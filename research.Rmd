@@ -48,7 +48,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Gender Gap in Rice Productivity: Micro-evidence from Myanmar. (`Lead author: Nandar Aye Chan`)
 
-* Can Techniques Used in Credit Scoring Improve the Construction of Poverty Scorecards: A Systematic Methodological Comparison.  (`Lead author: Doung Thanh`)
+* Can Techniques Used in Credit Scoring Improve the Construction of Poverty Scorecards: A Systematic Methodological Comparison. (`Lead author: Doung Thanh`)
 
 * Feasibility assessment of crop and livestock insurance scheme in Bhutan. (`Lead author: Ngawang`)
 
