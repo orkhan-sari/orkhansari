@@ -2264,7 +2264,7 @@ Figure 1: Confounder
 </div>
 </div>
 <ol start="2" type="1">
-<li><strong>Collider</strong> means that exposure (X) and outcome (Y) share a common effect (Z). This is visualized in Figure <code><a href="#fig:collider">2</a></code>. X and Y, both affect Z. Unlike the previous scenario, X and Y having an effect on Z does not introduce association. In this case, our results would be biased if we control for Z; we would induce a non-causal association. Thus, Z is a bad control here.</li>
+<li><strong>Collider</strong> means that exposure (X) and outcome (Y) share a common effect (Z). This is visualized in Figure <code><a href="#fig:collider">2</a></code>. X and Y, both affect Z. Unlike the previous scenario, X and Y having effect on Z does not introduce association. In this case, our results would be biased if we control for Z; we would induce a non-causal association. Thus, Z is a bad control here. Do not control for Z!!!</li>
 </ol>
 <div class="layout-chunk" data-layout="l-body">
 <div class="figure" style="text-align: center"><span style="display:block;" id="fig:collider"></span>
@@ -2275,7 +2275,7 @@ Figure 2: Collider
 </div>
 </div>
 <ol start="3" type="1">
-<li><strong>Mediator</strong> means that exposure (X) affects outcome of interest (Y) through the mediator (Z). If we control for Z, we block the association. Figure <code><a href="#fig:mediator">3</a></code> visualizes a chain. Controlling for Z on this causal pathway stops the flow of association and results in <em>overcontrol bias</em>. Thus, Z is again a bad control.</li>
+<li><strong>Mediator</strong> means that exposure (X) affects outcome of interest (Y) through the mediator (Z). If we control for Z, we block the association. Figure <code><a href="#fig:mediator">3</a></code> visualizes a chain. Controlling for Z on this causal pathway stops the flow of association and results in <em>overcontrol bias</em>. Thus, Z is again a bad control. Again, do not control for Z!!!</li>
 </ol>
 <p><strong><em>CAVEAT!!!</em></strong> Here, I’m assuming that the interest lies in the total effect of X on Y. Conditioning on Z is relevant if the researcher is interested in the controlled direct effect (CDE), which we commonly encounter in mediation analyses.</p>
 <div class="layout-chunk" data-layout="l-body">
@@ -2305,7 +2305,7 @@ Figure 5: Neutral control: bad for precision
 </p>
 </div>
 </div>
-<p>It is important to mention that I have only covered the simplest scenarios and one can think of much more challenging scenarios, but for the sake of simplicity and basic understanding I will leave it at this. I hope this is helpful.</p>
+<p>It is important to mention that I have only covered the simplest scenarios and one can think of much more challenging scenarios, but for the sake of simplicity and basic understanding, I will leave it at this. I hope this is helpful.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

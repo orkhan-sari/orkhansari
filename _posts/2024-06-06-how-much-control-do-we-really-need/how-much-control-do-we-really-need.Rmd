@@ -37,7 +37,7 @@ dag <- dagify(
 )
 ggdag_classic(dag, text_col = "blue") + theme_dag_blank()+ labs(title = "Confounder")
 ```
-2.  **Collider** means that exposure (X) and outcome (Y) share a common effect (Z). This is visualized in Figure `@ref(fig:collider)`. X and Y, both affect Z. Unlike the previous scenario, X and Y having an effect on Z does not introduce association. In this case, our results would be biased  if we control for Z; we would induce a non-causal association. Thus, Z is a bad control here.  
+2.  **Collider** means that exposure (X) and outcome (Y) share a common effect (Z). This is visualized in Figure `@ref(fig:collider)`. X and Y, both affect Z. Unlike the previous scenario, X and Y having effect on Z does not introduce association. In this case, our results would be biased  if we control for Z; we would induce a non-causal association. Thus, Z is a bad control here. Do not control for Z!!! 
 
 ```{r collider, out.width="70%", fig.cap = "Collider", fig.align='center'}
 dag <- dagify(
@@ -48,7 +48,7 @@ dag <- dagify(
 ggdag_classic(dag, text_col = "blue") + theme_dag_blank()+ labs(title = "Collider")
 
 ```
-3. **Mediator** means that exposure (X) affects outcome of interest (Y) through the mediator (Z). If we control for Z, we block the association. Figure  `@ref(fig:mediator)` visualizes a chain. Controlling for Z on this causal pathway stops the flow of association and results in *overcontrol bias*. Thus, Z is again a bad control. 
+3. **Mediator** means that exposure (X) affects outcome of interest (Y) through the mediator (Z). If we control for Z, we block the association. Figure  `@ref(fig:mediator)` visualizes a chain. Controlling for Z on this causal pathway stops the flow of association and results in *overcontrol bias*. Thus, Z is again a bad control. Again, do not control for Z!!! 
 
 ***CAVEAT!!!*** Here, I'm assuming that the interest lies in the total effect of X on Y. Conditioning on Z is relevant if the researcher is interested in the controlled direct effect (CDE), which we commonly encounter in mediation analyses.
 
@@ -80,4 +80,4 @@ dag <- dagify(
 ggdag_classic(dag, text_col = "blue") + theme_dag_blank()+ labs(title = "Neutral control: case 2")
 ```
 
-It is important to mention that I have only covered the simplest scenarios and one can think of much more challenging scenarios, but for the sake of simplicity and basic understanding I will leave it at this. I hope this is helpful.  
+It is important to mention that I have only covered the simplest scenarios and one can think of much more challenging scenarios, but for the sake of simplicity and basic understanding, I will leave it at this. I hope this is helpful.  
