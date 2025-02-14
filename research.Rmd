@@ -29,6 +29,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Publications in peer-reviewed journals
+* Sariyev, O. Asravor, J., & Zeller, M. (2025). Poverty and food security impacts of sustainable intensification: Evidence from Ethiopia. Food Security, 17(2). https://doi.org/10.1007/s12571-025-01517-9
+
+* Chan, N.A., Sariyev, O., Islam, M.A., & Zeller, M. (2025). How competitive Is Myanmar's rice sector? A comparison of production costs and efficiency. Agribusiness. https://doi.org/10.1002/agr.22029
 
 * Sariyev, O. & Zeller, M. (2023). Crossbred poultry adoption and impact: Evidence from Ethiopia. Social Sciences and Humanities Open, 7(1). https://doi.org/10.1016/j.ssaho.2022.100394
 
@@ -44,13 +47,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Work in progress
 
-* Poverty and food security impacts of sustainable intensification: evidence from Ethiopia. (`Lead author: Orkhan Sariyev`)
-
 * Gender Gap in Rice Productivity: Micro-evidence from Myanmar. (`Lead author: Nandar Aye Chan`)
 
 * Can Techniques Used in Credit Scoring Improve the Construction of Poverty Scorecards: A Systematic Methodological Comparison. (`Lead author: Doung Thanh`)
 
-* Feasibility assessment of crop and livestock insurance scheme in Bhutan. (`Lead author: Ngawang`)
+* Does integrating improved seeds with agronomic practices enhance farm productivity and technical efficiency? Evidence from an endogeneity-corrected analysi. (`Lead author: Jacob Asravor`)
 
 
 
