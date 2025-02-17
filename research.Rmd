@@ -47,8 +47,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Work in progress
 
-* Gender Gap in Rice Productivity: Micro-evidence from Myanmar. (`Lead author: Nandar Aye Chan`)
-
 * Can Techniques Used in Credit Scoring Improve the Construction of Poverty Scorecards: A Systematic Methodological Comparison. (`Lead author: Doung Thanh`)
 
 * Does integrating improved seeds with agronomic practices enhance farm productivity and technical efficiency? Evidence from an endogeneity-corrected analysi. (`Lead author: Jacob Asravor`)
