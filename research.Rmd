@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Can Techniques Used in Credit Scoring Improve the Construction of Poverty Scorecards: A Systematic Methodological Comparison. (`Lead author: Doung Thanh`)
 
-* Does integrating improved seeds with agronomic practices enhance farm productivity and technical efficiency? Evidence from an endogeneity-corrected analysi. (`Lead author: Jacob Asravor`)
+* Exploring the mediating role of productivity in the shock-happiness relationship in Myanmar. (`Lead author: Nandar Chan`)
 
 
 
