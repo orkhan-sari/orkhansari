@@ -23,12 +23,10 @@ knitr::opts_chunk$set(echo = TRUE)
   * [Rural Development Policies and Institutions](https://ilias.uni-hohenheim.de/goto.php?target=crs_58826&client_id=UHOH)
     * Agricultural value chains and producer organizations as a form of collective action
 
-### MSc research
-
-* Are you interested in writing a master thesis with me? Please refer to [this file for topics](https://entwicklungspolitik.uni-hohenheim.de/fileadmin/einrichtungen/typo3-entwicklungspolitik/Aktuelle_Themen/M.Sc._Thesis_topics_2023.pdf).  
-
 
 ## Publications in peer-reviewed journals
+* Chan, N.A., Sariyev, O., & Zeller, M. (2026). Exploring the mediating role of productivity in the shock-happiness relationship in Myanmar. Social Indicators Research.https://doi.org/10.1007/s11205-026-03848
+
 * Duong, B.T., Sariyev, O., & Zeller, M. (2026). Are poverty-targeting tools practicable? Insights from Khmer communities in Southern Vietnam. Quality and Quantity. https://doi.org/10.1007/s11135-025-02541-9
 
 * Duong, B.T., Sariyev, O. & Zeller, M. (2025). Can Weight of Evidence Method Improve Poverty Targeting? Social Indicators Research. https://doi.org/10.1007/s11205-025-03576-z
@@ -53,9 +51,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Work in progress
 
-* Can Techniques Used in Credit Scoring Improve the Construction of Poverty Scorecards: A Systematic Methodological Comparison. (`Lead author: Doung Thanh`)
-
-* Exploring the mediating role of productivity in the shock-happiness relationship in Myanmar. (`Lead author: Nandar Chan`)
+* Legume-based intensification of maize production in East and Southern Africa:Food security impacts and the role of gender.
 
 
 
