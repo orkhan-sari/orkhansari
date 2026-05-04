@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Publications in peer-reviewed journals
-* Chan, N.A., Sariyev, O., & Zeller, M. (2026). Exploring the mediating role of productivity in the shock-happiness relationship in Myanmar. Social Indicators Research.https://doi.org/10.1007/s11205-026-03848
+* Chan, N.A., Sariyev, O., & Zeller, M. (2026). Exploring the mediating role of productivity in the shock-happiness relationship in Myanmar. Social Indicators Research. https://doi.org/10.1007/s11205-026-03848 
 
 * Duong, B.T., Sariyev, O., & Zeller, M. (2026). Are poverty-targeting tools practicable? Insights from Khmer communities in Southern Vietnam. Quality and Quantity. https://doi.org/10.1007/s11135-025-02541-9
 
