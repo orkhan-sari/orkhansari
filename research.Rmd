@@ -10,21 +10,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-## Teaching and supervision
-
-### Modules at UHOH
-
-  * [Quantitative Methods in Economics](https://ilias.uni-hohenheim.de/goto.php?target=crs_93188&client_id=UHOH)
-    * Research designs, sampling, statistical analyses, matching methods - with applications in STATA
-  * [Poverty and Development Strategies](https://ilias.uni-hohenheim.de/goto.php?target=crs_54514&client_id=UHOH)
-    * Role of agriculture in development and agricultural development policy instruments
-  * [Monitoring and Evaluation of Rural Development Projects](https://ilias.uni-hohenheim.de/goto.php?target=crs_400376&client_id=UHOH)
-    * Impact evaluation, financial and economic appraisal of rural development projects
-  * [Rural Development Policies and Institutions](https://ilias.uni-hohenheim.de/goto.php?target=crs_58826&client_id=UHOH)
-    * Agricultural value chains and producer organizations as a form of collective action
-
 
 ## Publications in peer-reviewed journals
+
 * Chan, N.A., Sariyev, O., & Zeller, M. (2026). Exploring the mediating role of productivity in the shock-happiness relationship in Myanmar. _Social Indicators Research_.[DOI](https://doi.org/10.1007/s11205-026-03848-2)
 
 * Duong, B.T., Sariyev, O., & Zeller, M. (2026). Are poverty-targeting tools practicable? Insights from Khmer communities in Southern Vietnam. _Quality and Quantity_. [DOI](https://doi.org/10.1007/s11135-025-02541-9)
@@ -49,9 +37,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Sariyev, O., Loos, T. K., & Zeller, M. (2020). Women’s participation in decision-making and its implications for human capital investment. _European Review of Agricultural Economics_, 47(5), 1803-1825. [DOI](https://doi.org/10.1093/erae/jbaa008)
 
-## Work in progress
 
-* Legume-based intensification of maize production in East and Southern Africa:Food security impacts and the role of gender.
+## Teaching and supervision
 
+### Modules at UHOH
 
+  * [Quantitative Methods in Economics](https://ilias.uni-hohenheim.de/goto.php?target=crs_93188&client_id=UHOH)
+    * Research designs, sampling, statistical analyses, matching methods - with applications in STATA
+  * [Poverty and Development Strategies](https://ilias.uni-hohenheim.de/goto.php?target=crs_54514&client_id=UHOH)
+    * Role of agriculture in development and agricultural development policy instruments
+  * [Monitoring and Evaluation of Rural Development Projects](https://ilias.uni-hohenheim.de/goto.php?target=crs_400376&client_id=UHOH)
+    * Impact evaluation, financial and economic appraisal of rural development projects
+  * [Rural Development Policies and Institutions](https://ilias.uni-hohenheim.de/goto.php?target=crs_58826&client_id=UHOH)
+    * Agricultural value chains and producer organizations as a form of collective action
 
